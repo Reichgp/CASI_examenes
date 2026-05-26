@@ -1,5 +1,5 @@
 
-const DATA_FILE = "CASI_test_corregido.json";
+const DATA_FILE = "CASI_ex.json";
 
 let settings = {
   show_progress: true,
