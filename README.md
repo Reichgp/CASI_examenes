@@ -23,7 +23,7 @@ This repository implements the standardized architecture of the organization:
 
 ## 🚀 Live Demo
 
-The application is fully deployed through GitHub Pages:
+The application is fully deployed through GitHub Pages: reichgp.github.io/quiz-casi/
 
 🔗 **https://devquiz-hub.github.io/quiz-casi/**
 
